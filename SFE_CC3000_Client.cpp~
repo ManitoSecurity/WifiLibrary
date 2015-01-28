@@ -19,7 +19,7 @@
 #include "utility/socket.h"
 
  /**
-  * @brief Constructor - Default constructor
+  * @brief Constructor - Instantiates SFE_CC3000_Client object
   */
 SFE_CC3000_Client::SFE_CC3000_Client()
 {
